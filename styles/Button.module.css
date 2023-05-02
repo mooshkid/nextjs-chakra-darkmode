@@ -1,0 +1,6 @@
+.theme_button {
+  display: flex;
+  justify-content: center;
+  background: red;
+  font-style: italic;
+}
